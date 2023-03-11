@@ -1,3 +1,3 @@
 # ASML
 
-Внимание! Репозиторий переехал сюда, и все дальнейшие обновления будут там https://github.com/yandexdataschool/asml
+Внимание! Репозиторий переехал сюда https://github.com/yandexdataschool/asml, и все дальнейшие обновления будут там.
